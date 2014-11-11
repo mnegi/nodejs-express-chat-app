@@ -1,4 +1,4 @@
 nodejs-express-chat-app
 =======================
 
-chat app using NodeJs, Express and socket.io
+Chat app using Nodejs, Express and socket.io
